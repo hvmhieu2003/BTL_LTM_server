@@ -1,6 +1,3 @@
-# Caro Game Server
-Introduce, Demo: https://youtu.be/ZLfz010cOX8 <br />
-Client source: https://github.com/Duc-ju/caro-game-client
 
 ## Run Step
 
